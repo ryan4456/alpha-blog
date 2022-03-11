@@ -7,3 +7,7 @@ rails db:migrate
 rails db:rollback
 rails generate migration
 ```
+### Rails console
+```
+rails c
+```
