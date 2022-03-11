@@ -21,3 +21,6 @@ a.save
 
 a.destroy
 ```
+
+## Model
+### Validation
